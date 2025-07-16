@@ -1,3 +1,4 @@
 console.log("nma gap menda hammasi yaxshi");
 
-console.log(12);
+let a = 1
+console.log(a + 1);
